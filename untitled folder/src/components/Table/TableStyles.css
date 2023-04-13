@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.table-container {
+  padding: 50px;
+}
+
+.table h2 {
+  padding-bottom: 20px;
+}
+
+.table {
+  padding-bottom: 20px;
+}
+
+.ani-form {
+  padding-top: 20px;
+}
+
+.ani-form .buttons {
+  display: flex;
+}
+
+.ani-form .button {
+  padding-top: 10px;
+  padding-right: 10px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+th,
+td {
+  padding: 10px;
+}
